@@ -1,7 +1,7 @@
 
 
 # DDL - Create 
-#create database store;
+create database store;
 use store ;
 # countries
 create table countries (
